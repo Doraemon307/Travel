@@ -3,6 +3,7 @@
 > 模仿慕课网开发的去哪儿网APP
 
 ## Demo Tree
+```
 |-- LICENSE
 |-- README.en.md
 |-- README.md
@@ -62,6 +63,7 @@
 |       |-- mutations.js
 |       `-- state.js
 `-- static
+```
 
 ## 真机测试
 项目的数据放至PHP服务器中，当PHP服务器开启时，手机端可成功运行该APP。
